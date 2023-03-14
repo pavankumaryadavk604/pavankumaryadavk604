@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 👯 I’m looking to collaborate on Python , Machine learning Engineer.
+- 👯 I’m looking to collaborate on Python , Machine learning field of work.
+
+Thanks for visiting!😄 
 
 <!--
 **pavankumaryadavk604/pavankumaryadavk604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
